@@ -29,7 +29,7 @@ Creator Profile pada bagian 'Profile', jika user ingin kembali kehalaman pertama
 6. Seluruh User dapat melakukan proses keluar [log Out].
 
 --------------------------------------------------------------------
-1. Tipe atau kode soal apa yang anda dapatkan dalam pengerjaan mini project anda? Jelaskan secara singkat, proyek apa yang anda buat? (7.5 Poin) 
+1. Tipe atau kode soal apa yang anda dapatkan dalam pengerjaan mini project anda? Jelaskan secara singkat, proyek apa yang anda buat? 
 Tipe 4, mini project dengan portal CRUD (Create, Read, Update & Delete) untuk sebuah supermarket yang bernama Ushop,dimana tiap user harus login terlebih dahulu, 
 dimana disini terdapat 4 tingkatan user yaitu role 
 1. Pembeli (Dapat melihat barang yang tersedia serta harganya)
@@ -38,7 +38,7 @@ dimana disini terdapat 4 tingkatan user yaitu role
 4. Admin (Dapat melakukan CRUD secara leluasa pada User) 
 dimana masing masing tingkatan memiliki akses yang berbeda.
 ---------------------------------------------------------------------
-2. Secara keseluruhan berapa halaman web yang anda buat? Sebutkan halaman – halaman web anda buat! (7.5 Poin) 
+2. Secara keseluruhan berapa halaman web yang anda buat? Sebutkan halaman – halaman web anda buat! 
 ada 8 halaman web, yaitu 
 1. account 
 2. admin 
@@ -49,7 +49,7 @@ ada 8 halaman web, yaitu
 7. manager 
 8. profile 
 --------------------------------------------------------
-3. Jelaskan secara singkat bagaimana mekanisme atau cara kerja mini project yang anda buat! (7.5 Poin) 
+3. Jelaskan secara singkat bagaimana mekanisme atau cara kerja mini project yang anda buat
 User harus memiliki akun untuk dapat masuk ke mini project ini, dan untuk pendaftaran dilakukan oleh admin. 
 Pada awal mini project ini akan memunculkan page login, setelah login user akan masuk ke page index sesuai tingkatan atau role , dimana masing masing 
 tingkatan memiliki akses yang berbeda. 
@@ -73,11 +73,3 @@ tingkatan memiliki akses yang berbeda.
 *page account dapat diakses dengan klik tulisan welcome pada navbar, kemudian terdapat pilihan yaitu account yang berisi data user.
 *untuk logout dapat klik tulisan welcome pada navbar.
 ----------------------------------------------------------------------
-4. Sebutkan referensi yang anda gunakan ketika membuat project ini! Tuliskan juga nama teman anda yang membantu anda apabila ada! (7.5 Poin) 
-project mini ini saya dibantu teman saya - vera (mencari solusi dalam error yang ada)
-referensi dari internet:
-https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js
-https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
-https://code.jquery.com/jquery-3.4.1.slim.min.js
-https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css
-https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
